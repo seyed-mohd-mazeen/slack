@@ -1,0 +1,16 @@
+.logo {
+    margin-right: 5px;
+}
+.tagline-logo {
+    font-weight: 800;  
+    font-size: 25px;
+}
+.cell-right-list-container span {
+    margin-right: 20px;
+    font-size: 14px;
+    font-weight: bold;
+}
+.cell-right-list-container i {
+    margin-right: 40px;
+    font-size: 20px;
+}

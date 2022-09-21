@@ -1,0 +1,30 @@
+.primary-btn {
+    background-color: #611f69;
+    color: #fff;
+    padding: 12px 16px;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 700;
+    border: 1px solid #611f69;
+    margin-right: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.secondary-btn {
+    background-color: #fff;
+    color: #611f69;
+    padding: 12px 16px;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 700;
+    border: 1px solid #611f69;
+    margin-right: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.btn-l {
+    padding: 19px 40px 20px 40px;
+}
+.btn-container {
+    margin-bottom: 10px;
+}
